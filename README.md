@@ -19,7 +19,7 @@ I love turning **data into intelligence** and building **ethical, fair, and scal
 - 🔬 **Researcher in NLP** → Worked on **Gender Bias Mitigation for Bangla NLP tasks**.  
 - 🤖 Experienced in **LLMs, RAG pipelines, Deep Learning, and Prompt Engineering**.  
 - 🛠️ Skilled in building **AI-powered applications** (QA systems, content generators, fraud detection).  
-- 🚀 Currently exploring **Reinforcement Learning** & **MLOps for scalable AI deployment**.  
+  
 
 ---
 
