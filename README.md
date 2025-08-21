@@ -89,7 +89,6 @@ Proposed **joint loss optimization** method to reduce bias in Bangla NLP tasks.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyal21&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyal21&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyal21&layout=compact&theme=radical" height="180em"/>
 </p>
