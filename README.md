@@ -1,6 +1,6 @@
 <h1 align="center"> MD Piyal Ahmmed </h1>  
 
-<h3 align="center"> AI & ML Engineer</h3>  
+<h3 align="center"> AI  ML Engineer</h3>  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
