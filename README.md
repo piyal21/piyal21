@@ -57,7 +57,7 @@ I love turning **data into intelligence** and building **ethical, fair, and scal
 <h2 align="center"> Featured Projects</h2>
 
 ####  AI-Powered Question Answering System  
-[![Project Banner](https://img.shields.io/badge/🔗_View_Project-Streamlit-blue?style=for-the-badge)](https://github.com/piyal21/Gen-AI-Projects/tree/master)  
+[![Project Banner](https://img.shields.io/badge/✍️_LinkedIn_Post_Generator-LLMs%20%2B%20AI-green?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/piyal21/Gen-AI-Projects/tree/master)   
 Semantic search & QA system built with **OpenAI embeddings + FAISS + LangChain**.  
 
 🔹 This project demonstrates how to build an intelligent **document-based Question Answering system**.  
