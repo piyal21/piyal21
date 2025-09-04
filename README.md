@@ -60,6 +60,14 @@ I love turning **data into intelligence** and building **ethical, fair, and scal
 [![Project Banner](https://img.shields.io/badge/🔗_View_Project-Streamlit-blue?style=for-the-badge)](https://github.com/piyal21/Gen-AI-Projects/tree/master)  
 Semantic search & QA system built with **OpenAI embeddings + FAISS + LangChain**.  
 
+🔹 This project demonstrates how to build an intelligent **document-based Question Answering system**.  
+- Uses **OpenAI embeddings** to transform text into high-dimensional vectors.  
+- Stores & retrieves information efficiently using **FAISS vector database**.  
+- Employs **LangChain** for query processing, chaining, and response generation.  
+- Provides an **interactive Streamlit UI** for real-time user queries.  
+- Capable of answering both **direct factual questions** and **semantic queries** from unstructured documents.  
+
+
 ---
 
 ####  LinkedIn Post Generator  
