@@ -41,8 +41,6 @@ I love turning **data into intelligence** and building **ethical, fair, and scal
 ![LangSmith](https://img.shields.io/badge/LangSmith-1E90FF?style=for-the-badge&logo=smith&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=airtable&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-008080?style=for-the-badge&logo=vector&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
 
