@@ -37,7 +37,15 @@ I love turning **data into intelligence** and building **ethical, fair, and scal
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1E90FF?style=for-the-badge&logo=smith&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=airtable&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-008080?style=for-the-badge&logo=vector&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 **Databases & Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
