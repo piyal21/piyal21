@@ -70,11 +70,12 @@ Semantic search & QA system built with **OpenAI embeddings + FAISS + LangChain**
 
 ---
 
-####  LinkedIn Post Generator
-[![Project Banner](https://img.shields.io/badge/✍️_LinkedIn_Post_Generator-LLMs%20%2B%20AI-green?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/piyal21/Gen-AI-Projects/tree/master])  
-[![Tech](https://img.shields.io/badge/Stack-LLMs%20%7C%20Prompting%20%7C%20Streamlit-lightgrey?style=for-the-badge)]() [![UI](https://img.shields.io/badge/UI-Streamlit-green?style=for-the-badge&logo=streamlit&logoColor=white)]()
+#### 🚀 LinkedIn Post Generator  
+[![Project Banner](https://img.shields.io/badge/✍️_LinkedIn_Post_Generator-LLMs%20%2B%20AI-green?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/piyal21/Gen-AI-Projects/tree/master)  
+[![Tech](https://img.shields.io/badge/Stack-LLMs%20%7C%20Prompting%20%7C%20Streamlit-lightgrey?style=for-the-badge)]() 
+[![UI](https://img.shields.io/badge/UI-Streamlit-green?style=for-the-badge&logo=streamlit&logoColor=white)]()  
 
-Create polished, professional LinkedIn posts in seconds — tailor tone, length, and topic with a simple UI.
+Create polished, professional LinkedIn posts in seconds — tailor tone, length, and topic with a simple UI.  
 
 ✨ **Why it shines:** Turn ideas into ready-to-post content — hooks, key takeaways, and hashtags included — perfect for engineers, creators, and job-seekers.  
 🔧 **What’s inside:**  
@@ -82,6 +83,7 @@ Create polished, professional LinkedIn posts in seconds — tailor tone, length,
 - Customizable inputs: audience, tone, post length, CTAs, and hashtags.  
 - Live preview + copy-to-clipboard for instant publishing.  
 📌 **Use cases:** Personal branding, product updates, research highlights, recruiter outreach.  
+
 
 
 ---
