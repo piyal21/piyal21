@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">MySelf</h3>
+<h3 align="center">About Me</h3>
 
  Hi! I'm **Piyal Ahmmed**, a passionate **AI & Machine Learning Engineer**.  
 I love turning **data into intelligence** and building **ethical, fair, and scalable AI systems**.  
