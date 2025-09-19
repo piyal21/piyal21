@@ -1,4 +1,4 @@
-<h1 align="center"> MD Piyal Ahmmed </h1>  
+<h1 align="center">  Piyal Ahmmed </h1>  
 
 <h3 align="center"> AI & ML Engineer</h3>  
 
