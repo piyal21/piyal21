@@ -2,7 +2,7 @@
 
 <h3 align="center"> AI & ML Engineer</h3>  
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-%23FF6F00.svg?&style=for-the-badge&logo=huggingface&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative%20AI-%2300BFA6.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
