@@ -1,120 +1,157 @@
-<h1 align="center">MD Piyal Ahmmed </h1>  
+<div align="center">
 
-<h3 align="center"> AI & ML Engineer</h3>  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+MD+Piyal+Ahmmed;ML+Engineer+%E2%80%A2+MLOps+%E2%80%A2+LLM+Systems;Shipping+models+from+notebook+to+production;data+%E2%86%92+train+%E2%86%92+gate+%E2%86%92+deploy+%E2%86%92+monitor+%E2%86%92+retrain" alt="typing header"/>
 
-<p align="Center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-%23FF6F00.svg?&style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-%2300BFA6.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
+<p>
+  <a href="https://www.linkedin.com/in/md-piyal-ahmmed-bb1033205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:piyalahmmed01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/📍_Germany-open_to_Werkstudent_%2F_Junior_roles-00E5A0?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=piyal21&style=flat-square&color=00E5A0&label=profile+views"/>
 </p>
 
----
+</div>
 
-<h3 align="center">About Me</h3>
-
- Hi! I'm **Piyal Ahmmed**, a passionate **AI & Machine Learning Engineer**.  
-I love turning **data into intelligence** and building **ethical, fair, and scalable AI systems**.  
-
-- 🎓 **CSE Graduate (2025)** from Ahsanullah University of Science and Technology.  
-- 🔬 **Researcher in NLP** → Worked on **Gender Bias Mitigation for Bangla NLP tasks**.  
-- 🤖 Experienced in **LLMs, RAG pipelines, Deep Learning, and Prompt Engineering**.  
-- 🛠️ Skilled in building **AI-powered applications** (QA systems, content generators, fraud detection).  
-  
-
----
-
-<h2 align="center"> Tech Stack</h2>
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**Frameworks & Libraries**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graph&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1E90FF?style=for-the-badge&logo=smith&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=airtable&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-008080?style=for-the-badge&logo=vector&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
-
-
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+```python
+class PiyalAhmmed:
+    role       = "ML Engineer → MLOps"
+    location   = "Schmalkalden, Germany 🇩🇪"
+    education  = {
+        "M.Sc.": "Applied Computer Science @ Hochschule Schmalkalden (ongoing)",
+        "B.Sc.": "CSE @ Ahsanullah University of Science & Technology",
+    }
+    research   = "Mitigating Extrinsic Gender Bias for Bangla Classification — ACL 2026 Findings"
+    shipped    = ["LLM + RAG systems in production", "FastAPI services", "vector search", "Dockerized ML"]
+    building   = "Pünktlich — end-to-end MLOps on real Deutsche Bahn data"
+    philosophy = "A model isn't done until it's versioned, monitored, and can be rolled back."
+```
 
 ---
 
-<h2 align="center"> Featured Projects</h2>
+## 🚆 Currently building: `Pünktlich?`
 
-####  AI-Powered Question Answering System  
-[![Project Banner](https://img.shields.io/badge/✍️_LinkedIn_Post_Generator-LLMs%20%2B%20AI-green?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/piyal21/Gen-AI-Projects/tree/master)   
-Semantic search & QA system built with **OpenAI embeddings + FAISS + LangChain**.  
+> **Will my train leave on time?** Delay-risk predictions for German train departures, trained on ~226M historical stop events, fed by the live DB Timetables API every 15 minutes, monitored nightly against what actually happened, and retrained automatically when the world drifts. Runs on AWS serverless for **< $1/month**.
 
-🔹 This project demonstrates how to build an intelligent **document-based Question Answering system**.  
-- Uses **OpenAI embeddings** to transform text into high-dimensional vectors.  
-- Stores & retrieves information efficiently using **FAISS vector database**.  
-- Employs **LangChain** for query processing, chaining, and response generation.  
-- Provides an **interactive Streamlit UI** for real-time user queries.  
-- Capable of answering both **direct factual questions** and **semantic queries** from unstructured documents.  
+```mermaid
+flowchart LR
+  A["🗄️ HF + DB API"] --> B["🥉 Bronze → 🥈 Silver → 🥇 Gold<br/>Pandera contracts"]
+  B --> C["🧪 Train<br/>LightGBM + calibration"]
+  C --> D{"🚦 Gate<br/>beats champion<br/>& baseline?"}
+  D -- yes --> E["🚀 Release<br/>S3 + SSM pointer"]
+  D -- no --> R["📝 Record rejection"]
+  E --> F["⚡ Serve<br/>FastAPI on Lambda"]
+  F --> G["📉 Monitor<br/>drift + real outcomes"]
+  G -- "3-day drift" --> C
+```
 
+<details>
+<summary><b>📋 Build log</b> (updated as I ship)</summary>
+
+| Phase | Scope | Status |
+|---|---|---|
+| 0 | Repo, tooling, CI skeleton, pre-commit | 🔲 |
+| 1 | Historical ETL → bronze/silver/gold + data contracts | 🔲 |
+| 2 | Training pipeline, MLflow tracking, promotion gate | 🔲 |
+| 3 | FastAPI serving on Lambda, release + rollback | 🔲 |
+| 4 | Live ingestion, nightly ETL, drift monitoring | 🔲 |
+| 5 | Continuous training loop, alerting | 🔲 |
+| 6 | Terraform, CD with OIDC, React frontend, public Health page | 🔲 |
+
+</details>
+
+### MLOps skills this project covers
+
+| Concept | How it's done here |
+|---|---|
+| **Data engineering** | Medallion layers, idempotent partition overwrites, schema contracts, quarantine on failure |
+| **Orchestration** | Airflow 3 TaskFlow, dynamic task mapping, deferrable sensors |
+| **Experiment tracking** | MLflow runs pinned to git SHA + data snapshot hash |
+| **Model registry & gating** | `@champion` / `@challenger` aliases, metric + slice gate vs. baseline |
+| **Serving** | FastAPI + Mangum on Lambda, container images, hot model swap without redeploy |
+| **Monitoring** | Evidently data/prediction drift, daily Brier/AUC/calibration on real labels |
+| **Continuous training** | Drift flag → Airflow sensor → retrain → gate → release |
+| **CI/CD** | GitHub Actions, keyless AWS auth (OIDC), smoke tests, `terraform plan` on PRs |
+| **Infrastructure as Code** | Terraform modules, remote state with locking |
+| **Security** | Least-privilege IAM, SSM secrets, Trivy + gitleaks + pip-audit, no pickle, SHA-256 artifact manifests |
+| **Cost engineering** | Serverless only, budget alarms, S3 lifecycle rules |
 
 ---
 
-#### 🚀 LinkedIn Post Generator  
-[![Project Banner](https://img.shields.io/badge/✍️_LinkedIn_Post_Generator-LLMs%20%2B%20AI-green?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/piyal21/Gen-AI-Projects/tree/master)  
-[![Tech](https://img.shields.io/badge/Stack-LLMs%20%7C%20Prompting%20%7C%20Streamlit-lightgrey?style=for-the-badge)]() 
-[![UI](https://img.shields.io/badge/UI-Streamlit-green?style=for-the-badge&logo=streamlit&logoColor=white)]()  
+## 🛠️ Stack
 
-Create polished, professional LinkedIn posts in seconds — tailor tone, length, and topic with a simple UI.  
+**MLOps & Infra**
+<br/>
+![Airflow](https://img.shields.io/badge/Airflow_3-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow_3-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently-ED0400?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Lambda_·_S3_·_CloudFront_·_SSM_·_CloudWatch-232F3E?style=flat-square)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 
-✨ **Why it shines:** Turn ideas into ready-to-post content — hooks, key takeaways, and hashtags included — perfect for engineers, creators, and job-seekers.  
-🔧 **What’s inside:**  
-- Prompt-engineered workflows to produce multiple post variations (formal, casual, technical).  
-- Customizable inputs: audience, tone, post length, CTAs, and hashtags.  
-- Live preview + copy-to-clipboard for instant publishing.  
-📌 **Use cases:** Personal branding, product updates, research highlights, recruiter outreach.  
+**ML / DL / LLM**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
 
+**Data & Backend**
+<br/>
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Pandera](https://img.shields.io/badge/Pandera-4B32C3?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
+**Quality & Security**
+<br/>
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 
 ---
 
-####  Credit Card Fraud Detection  
-[![Project Banner](https://img.shields.io/badge/🔗_View_Project-ML-blueviolet?style=for-the-badge)](https://github.com/piyal21/10MS_ML_Assessment)  
-Fraud detection pipeline with **LogReg, SVM, Random Forest, KNN**.  
+## 📌 Selected work
+
+| Project | What's interesting about it | Stack |
+|---|---|---|
+| 🚆 [**Pünktlich?**](https://github.com/piyal21/puenktlich) | Closed-loop MLOps: gated releases, pointer-based rollback, drift-triggered retraining | Airflow · MLflow · Lambda · Terraform |
+| 🔍 [**Document QA (RAG)**](https://github.com/piyal21/Gen-AI-Projects/tree/master) | Semantic retrieval over unstructured docs with embeddings + FAISS, LangChain chains, Streamlit UI | OpenAI · FAISS · LangChain |
+| ✍️ [**LinkedIn Post Generator**](https://github.com/piyal21/Gen-AI-Projects/tree/master) | Prompt-engineered multi-variant generation with tone / length / audience controls | LLMs · Streamlit |
+| 💳 [**Credit Card Fraud Detection**](https://github.com/piyal21/10MS_ML_Assessment) | Heavy class imbalance; LogReg / SVM / RF / KNN compared on precision-recall | scikit-learn |
+
+### 📄 Research
+
+**Mitigating Extrinsic Gender Bias for Bangla Classification Tasks** — *Findings of ACL 2026*
+<br/>Joint-loss optimization to reduce gender bias in Bangla classifiers without sacrificing task accuracy.
+<br/>[![arXiv](https://img.shields.io/badge/arXiv-2411.10636-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.10636)
 
 ---
 
-####  Research: Gender Bias Mitigation in Bangla NLP  
-[![Project Banner](https://img.shields.io/badge/🔗_Research_Paper-arxiv-red?style=for-the-badge)](https://arxiv.org/html/2411.10636v1)  
-Proposed **joint loss optimization** method to reduce bias in Bangla NLP tasks.  
-
----
-
-<h2 align="center">🌐 Connect with Me</h2>
+## 📊 Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-piyal-ahmmed-bb1033205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:piyalahmmed01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/piyal.ahmed.809103">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyal21&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyal21&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyal21&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyal21&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyal21&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
+
+<div align="center">
+<sub><code>git commit -m "always be shipping"</code></sub>
+</div>
